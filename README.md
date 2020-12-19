@@ -1,5 +1,5 @@
 # hello-world
-my first project
-my name's Valerij
-i.m a math 
-study AI, neural network, machine learning, big data
+These is my first project
+My name's Valerij
+I am a math 
+I study AI, neural network, machine learning, big data
